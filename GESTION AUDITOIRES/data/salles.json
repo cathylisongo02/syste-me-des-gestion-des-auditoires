@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "designation": "Amphi A",
+    "capacite": 120
+  },
+  {
+    "id": 2,
+    "designation": "Salle 101",
+    "capacite": 40
+  },
+  {
+    "id": 3,
+    "designation": "Salle 102",
+    "capacite": 30
+  },
+  {
+    "id": 4,
+    "designation": "Salle PC",
+    "capacite": 20
+  }
+]

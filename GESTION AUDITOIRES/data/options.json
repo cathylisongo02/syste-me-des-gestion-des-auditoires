@@ -1,0 +1,26 @@
+[
+    {
+        "id_option": 1,
+        "libelle": "Développement Web",
+        "promotion_parente": 1,
+        "effectif": 700
+    },
+    {
+        "id_option": 2,
+        "libelle": "Systèmes et Réseaux",
+        "promotion_parente": 1,
+        "effectif": 40
+    },
+    {
+        "id_option": 3,
+        "libelle": "Marketing Digital",
+        "promotion_parente": 2,
+        "effectif": 50
+    },
+    {
+        "id_option": 4,
+        "libelle": "Finance",
+        "promotion_parente": 2,
+        "effectif": 30
+    }
+]

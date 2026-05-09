@@ -1,0 +1,38 @@
+[
+    {
+        "creneau": "Lundi 08:00",
+        "salle": 1,
+        "cours": 1,
+        "groupe": "Licence Informatique"
+    },
+    {
+        "creneau": "Lundi 10:00",
+        "salle": 1,
+        "cours": 2,
+        "groupe": "Licence Informatique"
+    },
+    {
+        "creneau": "Lundi 14:00",
+        "salle": 1,
+        "cours": 4,
+        "groupe": "Licence Informatique"
+    },
+    {
+        "creneau": "Lundi 16:00",
+        "salle": 1,
+        "cours": 5,
+        "groupe": "Licence Informatique"
+    },
+    {
+        "creneau": "Mardi 08:00",
+        "salle": 1,
+        "cours": 6,
+        "groupe": "Licence Informatique"
+    },
+    {
+        "creneau": "Lundi 08:00",
+        "salle": 2,
+        "cours": 3,
+        "groupe": "Systèmes et Réseaux"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id_promotion": 1,
+        "libelle": "Licence Informatique",
+        "effectif_total": 120
+    },
+    {
+        "id_promotion": 2,
+        "libelle": "cybersécurité",
+        "effectif_total": 90
+    }
+]

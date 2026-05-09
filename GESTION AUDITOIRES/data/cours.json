@@ -1,0 +1,38 @@
+[
+    {
+        "id_cours": 1,
+        "intitule": "Algorithmes",
+        "volume_horaire": 4,
+        "promotion_option": "promo_1"
+    },
+    {
+        "id_cours": 2,
+        "intitule": "Bases de données",
+        "volume_horaire": 4,
+        "promotion_option": "promo_1"
+    },
+    {
+        "id_cours": 3,
+        "intitule": "Système embarqué",
+        "volume_horaire": 3,
+        "promotion_option": "option_2"
+    },
+    {
+        "id_cours": 4,
+        "intitule": "mathematique pour informaticien",
+        "volume_horaire": 4,
+        "promotion_option": "promo_1"
+    },
+    {
+        "id_cours": 5,
+        "intitule": "IRS",
+        "volume_horaire": 4,
+        "promotion_option": "promo_1"
+    },
+    {
+        "id_cours": 6,
+        "intitule": "Mathématiques appliquées",
+        "volume_horaire": 4,
+        "promotion_option": "promo_1"
+    }
+]
